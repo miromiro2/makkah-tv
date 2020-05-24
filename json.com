@@ -1,5 +1,23 @@
 [
 {
+        "title":"AlQuranHD",
+        "provider":"youtube",
+        "arguments":[
+          "UCraPI8sg-eiNzUrurxhKeEQ",
+          "channel"
+
+        ]
+     },
+{
+        "title":"قناة القران الكريم",
+        "provider":"youtube",
+        "arguments":[
+          "UCos52azQNBgW63_9uDJoPDA",
+          "channel"
+
+        ]
+     },
+{
         "title":"قناة اقرأ",
         "provider":"youtube",
         "arguments":[
@@ -37,6 +55,36 @@
      }
 	    ]
 		},
+{
+   "title":"Makkah Tv",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.youtube.com/watch?v=7bfQJS5Thec"        ]
+      }
+    ]
+
+  },
+  {
+   "title":"Al Madina Tv",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.youtube.com/watch?v=-4yuG2KXvn4"        ]
+      }
+    ]
+
+  },
     {
    "title":"Iqraa Tv",
     "drawable":"",
