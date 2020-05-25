@@ -170,7 +170,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.aramexapps.appa.saudinews.SettingsFragment", "fragment"
+          "com.aramexapps.appa.mecquelive.SettingsFragment", "fragment"
         ]
       }
     ]
