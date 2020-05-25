@@ -1,4 +1,11 @@
 [
+[
+{
+     "title":"مباشر",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
 {
         "title":"AlQuranHD",
         "provider":"youtube",
